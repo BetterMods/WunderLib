@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wunderlib",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "name": "WunderLib",
   "description": "Another Utility Library",
   "authors": [
@@ -19,8 +19,8 @@
     "fabricloader": ">=0.14.21",
     "fabric": ">=0.83.0",
     "minecraft": [
-      "1.20",
-      "1.20.1"
+      "1.20.2",
+      "1.20.3"
     ]
   },
   "custom": {
